@@ -5,3 +5,6 @@ Git repo for the nbasa's thing:
 https://github.com/nasa-gibs/worldview/tree/main
 
 The main point is to add the (Add layer thingy) to the KJO app
+Need to search:
+Database and whether it can be aligned with the Al-Khafji.
+Noticed coordinate points-> not sure if possible.
